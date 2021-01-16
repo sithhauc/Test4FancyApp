@@ -1,3 +1,5 @@
 berechnung
 validierung
 UI Verknüpfung
+Datenbank verknüpfung
+
